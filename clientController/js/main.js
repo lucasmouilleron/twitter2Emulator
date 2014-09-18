@@ -7,9 +7,9 @@
 //var SOCKET_URL = "http://169.254.233.169";
 //var SOCKET_URL = "http://lucas.haveidols.com";
 //var SOCKET_URL = "http://test-node-10405.euw1.actionbox.io"
-//var SOCKET_URL = "http://localhost"
+var SOCKET_URL = "http://localhost"
 //var SOCKET_URL = "http://192.168.0.1"
-var SOCKET_URL = "http://10.196.197.90"
+//var SOCKET_URL = "http://10.196.197.90"
 var SOCKET_PORT = 8080;
 var ROOM_ID = "default";
 ////////////////////////////////////////////////////////////////////////////////
