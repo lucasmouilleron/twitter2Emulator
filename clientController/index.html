@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="robots" content="noindex"/>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+
+        <title>test emulator | controller</title>
+
+        <link rel="stylesheet" type="text/css" href="css/fonts.css" />
+        <link rel="stylesheet" type="text/css" href="css/main.css" />
+
+    </head>
+    <body id="body">
+
+        <div class="main">
+
+            <div id="message" class="block"></div>
+
+            <div id="controls" class="hidden">
+                <div id="lightButtons">
+                    <input type="text" id="username" value=""/>
+                    <button id="updateUsername" class="big">Update username</button>
+                    <button id="up" class="big">UP</button>
+                    <button id="down" class="big">DOWN</button>
+                    <button id="left" class="big">LEFT</button>
+                    <button id="right" class="big">RIGHT</button>
+                    <button id="jump" class="big">JUMP</button>
+                </div>
+            </div>
+
+        </div>
+
+        <script src="js/vendor/socket.io.min.js"></script>
+        <script src="js/vendor/jquery.min.js"></script>
+        <script src="js/vendor/hash.min.js"></script>
+        <script src="js/vendor/jquery.hammer-full.min.js"></script>
+        <script src="js/tools.js"></script>
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
