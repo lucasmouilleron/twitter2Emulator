@@ -1,7 +1,7 @@
 Twitter2Emulator
 ================
 
-![Screenshot](http://grabs.lucasmouilleron.com/Screen%20Shot%202015-11-23%20at%2014.03.13.png)
+![Screenshot](http://grabs.lucasmouilleron.com/Screen%20Shot%202015-11-23%20at%2015.42.07.png)
 
 Setup
 -----
